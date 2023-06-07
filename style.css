@@ -1,0 +1,103 @@
+body{
+    background-color: black;
+}
+.ear{
+    display: flex;
+    width: 300px;
+    justify-content: space-evenly;
+    margin: auto;
+    margin-top: 10%;
+    position: relative;
+}
+.lear{
+    height: 160px;
+    width: 100px;
+    background-color: hotpink;
+    border: 2px solid black;
+    border-top-left-radius: 120px;
+    border-top-right-radius: 120px;
+}
+.rear{
+    height: 160px;
+    width: 100px;
+    background-color: hotpink;
+    border: 2px solid black;
+    border-top-left-radius: 120px;
+    border-top-right-radius: 120px;
+}
+.face{
+    height: 300px;
+    width: 300px;
+    background-color: hotpink;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 10%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    position: absolute;    
+}
+.eyes{
+    display: flex;
+    width: 350px;
+    justify-content: space-evenly;
+    margin: auto;
+    margin-top: 20%;
+    margin-left: -6.5%;
+    position: absolute;
+    
+}
+.leye{
+    height: 90px;
+    width: 90px;
+    border: 2px solid black;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-color: white;
+
+}
+.reye{
+    height: 90px;
+    width: 90px;
+    border: 2px solid black;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    background-color: white;
+}
+.seye{
+    height: 50px;
+    width: 50px;   
+    background-color: black;
+    margin-top: 20%;
+    margin-left: 20%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
+.nose{
+    height: 80px;
+    width: 150px;
+    background-color: rgb(249, 2, 2);
+    margin: auto;
+    border-radius: 60px;
+    margin-top: 55%;
+    display: flex;
+}
+.hole{
+
+    height: 40px;
+    width: 40px;   
+    background-color: black;
+    margin-top: 15%;
+    margin-left: 14%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}
